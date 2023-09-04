@@ -26,8 +26,7 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [GitHub](https://github.com/aadirajuthup/order-summary-component)
-- Live Site URL: [GitHub Pages](https://aadirajuthup.github.io/order-summary-component/)
+- Live Site URL: [GitHub Pages](https://aadirajuthup.github.io/ps5/)
 
 ### Built with
 
